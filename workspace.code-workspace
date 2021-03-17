@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\..\\6-ES5 Constructor' dan ES6 Sınıflarına Dönüşüm\\Course-App\\img"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Course-App"
+  }
+}
